@@ -1,4 +1,4 @@
-# Desafio-Publica
+# Desafio-Pública
 
 > Status do Projeto: Concluído :heavy_check_mark:
 
